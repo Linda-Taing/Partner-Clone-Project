@@ -1,0 +1,37 @@
+
+h1{
+    margin-top: 5vh;
+}
+img{
+    height:5em;
+    width: 5em;
+}
+
+.first-part{
+    height:30em;
+    background: black;
+}
+
+.fine-text{
+    font-size: small;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.sm-logo{
+    height: 3em;
+    width: 3em;
+}
+.meet-logo{
+    height: 100%;
+    width:100%;
+}
+.sm-tech{
+    height:84%;
+    width:50%;
+}
+
+.card{
+    height:5em;
+    width: 40em;
+
+}
